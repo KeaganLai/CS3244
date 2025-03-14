@@ -30,3 +30,10 @@
 3. L2 Regularisation to reduce overfitting by penalising large weights
 4. I'm not sure about using F1 score because the data might not be unbalanced? eg one class much more prevalent
 5. Now we compile and train model with augmented data, plot accuracy etc
+
+![Confusion Matrix looks like this](https://github.com/user-attachments/assets/8089d26a-cc76-4033-a017-0a1bae9a315c)
+
+***
+
+[Another decent example if we can read the format](https://www.kaggle.com/code/sunnyhoya/study05-fashion-mnist)
+Many types of evaluation methods like Accuracy&Loss graphs, Confusion matrix, Confidence, and even Precision Recall F1 score below
