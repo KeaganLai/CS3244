@@ -2,6 +2,9 @@
 
 # Proposal to-do list
 
+
+***
+
 [Example 1](https://www.kaggle.com/code/abdallaellaithy/fashion-mnist-cnn-classifier)
 ## Preparation
 1. Load clean dataset
